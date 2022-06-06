@@ -1,0 +1,186 @@
+[INFO  - 2022-06-04T04:50:24.261Z] GhostDriver - Main - running on port 23990
+[INFO  - 2022-06-04T04:50:24.561Z] Session [d8b497b0-e3c1-11ec-a305-8f8418d9b827] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T04:50:24.561Z] Session [d8b497b0-e3c1-11ec-a305-8f8418d9b827] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T04:50:24.562Z] Session [d8b497b0-e3c1-11ec-a305-8f8418d9b827] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T04:50:24.562Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d8b497b0-e3c1-11ec-a305-8f8418d9b827
+[INFO  - 2022-06-04T04:50:26.650Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-06-04T04:51:20.676Z] GhostDriver - Main - running on port 42339
+[INFO  - 2022-06-04T04:51:21.186Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T04:51:21.186Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T04:51:21.187Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T04:51:21.187Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fa73a940-e3c1-11ec-8d41-cdbb327ecfb6
+[ERROR - 2022-06-04T04:51:23.082Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T04:51:23.082Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T04:51:23.083Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T04:51:23.083Z] Session [fa73a940-e3c1-11ec-8d41-cdbb327ecfb6] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T04:51:35.852Z] ShutdownReqHand - _handle - About to shutdown
+FO  - 2022-06-04T04:51:25.644Z] Session [fd1cd040-e3c1-11ec-ba67-d1b483945eb2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T04:51:25.644Z] Session [fd1cd040-e3c1-11ec-ba67-d1b483945eb2] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T04:51:25.644Z] Session [fd1cd040-e3c1-11ec-ba67-d1b483945eb2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T04:51:25.645Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fd1cd040-e3c1-11ec-ba67-d1b483945eb2
+[ERROR - 2022-06-04T04:51:28.048Z] Session [fd1cd040-e3c1-11ec-ba67-d1b483945eb2] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.available')
+[ERROR - 2022-06-04T04:51:28.048Z] Session [fd1cd040-e3c1-11ec-ba67-d1b483945eb2] - page.onError - stack:
+  (anonymous function) (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+  onerror (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+[INFO  - 2022-06-04T04:51:36.822Z] ShutdownReqHand - _handle - About to shutdown
+O  - 2022-06-04T04:51:27.891Z] Session [fe73fbd0-e3c1-11ec-91a7-3b637e4a4062] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T04:51:27.891Z] Session [fe73fbd0-e3c1-11ec-91a7-3b637e4a4062] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T04:51:27.892Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fe73fbd0-e3c1-11ec-91a7-3b637e4a4062
+[ERROR - 2022-06-04T04:51:30.614Z] Session [fe73fbd0-e3c1-11ec-91a7-3b637e4a4062] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T04:51:30.614Z] Session [fe73fbd0-e3c1-11ec-91a7-3b637e4a4062] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T04:51:30.615Z] Session [fe73fbd0-e3c1-11ec-91a7-3b637e4a4062] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T04:51:30.615Z] Session [fe73fbd0-e3c1-11ec-91a7-3b637e4a4062] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T04:51:37.559Z] ShutdownReqHand - _handle - About to shutdown
+hot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T04:51:30.160Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ffccd510-e3c1-11ec-8949-6b54c6292ebb
+[ERROR - 2022-06-04T04:51:32.226Z] Session [ffccd510-e3c1-11ec-8949-6b54c6292e[INFO  - 2022-06-04T04:51:32.399Z] Session [0123b280-e3c2-11ec-802f-e992af38e30a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T04:51:32.399Z] Session [0123b280-e3c2-11ec-802f-e992af38e30a] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T04:51:32.399Z] Session [0123b280-e3c2-11ec-802f-e992af38e30a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVers[INFO  - 2022-06-04T04:51:37.787Z] ShutdownReqHand - _handle - About to shutdown
+hot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T04:51:32.399Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0123b280-e3c2-11ec-802f-e992af38e30a
+[ERROR - 2022-06-04T04:51:35.045Z] Session [0123b280-e3c2-11ec-802f-e992af38e30a] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.available')
+[ERROR - 2022-06-04T04:51:35.045Z] Session [0123b280-e3c2-11ec-802f-e992af38e30a] - page.onError - stack:
+  (anonymous function) (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+  onerror (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+[INFO  - 2022-06-04T04:51:38.015Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-06-04T05:03:09.177Z] GhostDriver - Main - running on port 37352
+[INFO  - 2022-06-04T05:03:09.705Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T05:03:09.705Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:03:09.705Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:03:09.706Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a0c314b0-e3c3-11ec-a7cc-bde823c3998e
+[ERROR - 2022-06-04T05:03:11.537Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T05:03:11.537Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T05:03:11.538Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T05:03:11.538Z] Session [a0c314b0-e3c3-11ec-a7cc-bde823c3998e] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T05:03:25.166Z] ShutdownReqHand - _handle - About to shutdown
+FO  - 2022-06-04T05:03:14.041Z] Session [a359c520-e3c3-11ec-a741-438432d043a3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T05:03:14.041Z] Session [a359c520-e3c3-11ec-a741-438432d043a3] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:03:14.041Z] Session [a359c520-e3c3-11ec-a741-438432d043a3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:03:14.041Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a359c520-e3c3-11ec-a741-438432d043a3
+[ERROR - 2022-06-04T05:03:16.646Z] Session [a359c520-e3c3-11ec-a741-438432d043a3] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.available')
+[ERROR - 2022-06-04T05:03:16.647Z] Session [a359c520-e3c3-11ec-a741-438432d043a3] - page.onError - stack:
+  (anonymous function) (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+  onerror (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+[INFO  - 2022-06-04T05:03:26.245Z] ShutdownReqHand - _handle - About to shutdown
+O  - 2022-06-04T05:03:16.308Z] Session [a4b2c570-e3c3-11ec-9c5b-df615a71829c] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:03:16.308Z] Session [a4b2c570-e3c3-11ec-9c5b-df615a71829c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:03:16.308Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a4b2c570-e3c3-11ec-9c5b-df615a71829c
+[ERROR - 2022-06-04T05:03:19.268Z] Session [a4b2c570-e3c3-11ec-9c5b-df615a71829c] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T05:03:19.268Z] Session [a4b2c570-e3c3-11ec-9c5b-df615a71829c] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T05:03:19.269Z] Session [a4b2c570-e3c3-11ec-9c5b-df615a71829c] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T05:03:19.269Z] Session [a4b2c570-e3c3-11ec-9c5b-df615a71829c] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T05:03:27.038Z] ShutdownReqHand - _handle - About to shutdown
+hot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:03:18.570Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a60cd730-e3c3-11ec-8f65-0f01f3e4106d
+[ERROR - 2022-06-04T05:03:20.708Z] Session [a60cd730-e3c3-11ec-8f65-0f01f3e41[INFO  - 2022-06-04T05:03:20.814Z] Session [a7636680-e3c3-11ec-989e-ab3b2ce46b79] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T05:03:20.814Z] Session [a7636680-e3c3-11ec-989e-ab3b2ce46b79] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:03:20.815Z] Session [a7636680-e3c3-11ec-989e-ab3b2ce46b79] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersi[INFO  - 2022-06-04T05:03:27.265Z] ShutdownReqHand - _handle - About to shutdown
+ot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:03:20.815Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a7636680-e3c3-11ec-989e-ab3b2ce46b79
+[INFO  - 2022-06-04T05:03:27.468Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-06-04T05:06:42.687Z] GhostDriver - Main - running on port 32436
+[INFO  - 2022-06-04T05:06:43.204Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T05:06:43.204Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:06:43.204Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:06:43.204Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2004e690-e3c4-11ec-a2e2-8d722987bb63
+[ERROR - 2022-06-04T05:06:45.108Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T05:06:45.108Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T05:06:45.110Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T05:06:45.110Z] Session [2004e690-e3c4-11ec-a2e2-8d722987bb63] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T05:06:58.468Z] ShutdownReqHand - _handle - About to shutdown
+O  - 2022-06-04T05:06:47.645Z] Session [22a9eee0-e3c4-11ec-8b5a-2f5549c39133] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T05:06:47.645Z] Session [22a9eee0-e3c4-11ec-8b5a-2f5549c39133] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:06:47.645Z] Session [22a9eee0-e3c4-11ec-8b5a-2f5549c39133] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:06:47.646Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 22a9eee0-e3c4-11ec-8b5a-2f5549c39133
+[ERROR - 2022-06-04T05:06:49.902Z] Session [22a9eee0-e3c4-11ec-8b5a-2f5549c391[INFO  - 2022-06-04T05:06:49.912Z] Session [24053920-e3c4-11ec-9f15-d3cce141e63b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  -[INFO  - 2022-06-04T05:06:59.517Z] ShutdownReqHand - _handle - About to shutdown
+customHeaders:  - {}
+[INFO  - 2022-06-04T05:06:49.913Z] Session [24053920-e3c4-11ec-9f15-d3cce141e63b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:06:49.913Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 24053920-e3c4-11ec-9f15-d3cce141e63b
+[ERROR - 2022-06-04T05:06:53.172Z] Session [24053920-e3c4-11ec-9f15-d3cce141e63b] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T05:06:53.172Z] Session [24053920-e3c4-11ec-9f15-d3cce141e63b] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T05:06:53.173Z] Session [24053920-e3c4-11ec-9f15-d3cce141e63b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T05:06:53.173Z] Session [24053920-e3c4-11ec-9f15-d3cce141e63b] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T05:07:00.314Z] ShutdownReqHand - _handle - About to shutdown
+ot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:06:52.157Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 255ba160-e3c4-11ec-9acd-43de3c14f5da
+[ERROR - 2022-06-04T05:06:53.950Z] Session [255ba160-e3c4-11ec-9acd-43de3c14f5da] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T05:06:53.950Z] Session [255ba160-e3c4-11ec-9acd-43de3c14f5da] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[INFO  - 2022-06-04T05:06:53.967Z] GhostDriver - Main - running on port 31896
+[INFO  - 2022-06-04T05:06:54.428Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled[INFO  - 2022-06-04T05:07:00.562Z] ShutdownReqHand - _handle - About to shutdown
+, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T05:06:54.428Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T05:06:54.428Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T05:06:54.429Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 26b5da30-e3c4-11ec-9581-5d2ef4f05cbc
+[ERROR - 2022-06-04T05:06:57.201Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T05:06:57.202Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T05:06:57.204Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T05:06:57.204Z] Session [26b5da30-e3c4-11ec-9581-5d2ef4f05cbc] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T05:07:00.794Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2022-06-04T06:20:47.094Z] GhostDriver - Main - running on port 12173
+[INFO  - 2022-06-04T06:20:47.680Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T06:20:47.680Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T06:20:47.680Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T06:20:47.680Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 79218210-e3ce-11ec-8245-3522a56f59c2
+[ERROR - 2022-06-04T06:20:49.431Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T06:20:49.431Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T06:20:49.433Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T06:20:49.433Z] Session [79218210-e3ce-11ec-8245-3522a56f59c2] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T06:20:59.528Z] GhostDriver - Main - running on port 3957
+[INFO  - 2022-06-04T06:21:00.172Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T06:21:00.173Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T06:21:00.173Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T06:21:00.174Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 80946620-e3ce-11ec-97fa-cdd6d55e4402
+[ERROR - 2022-06-04T06:21:02.009Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T06:21:02.010Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T06:21:02.011Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T06:21:02.011Z] Session [80946620-e3ce-11ec-97fa-cdd6d55e4402] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
+[INFO  - 2022-06-04T06:21:04.143Z] GhostDriver - Main - running on port 11097
+[INFO  - 2022-06-04T06:21:04.555Z] Session [8331cd50-e3ce-11ec-aa5c-c710e111ab70] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T06:21:04.555Z] Session [8331cd50-e3ce-11ec-aa5c-c710e111ab70] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T06:21:04.555Z] Session [8331cd50-e3ce-11ec-aa5c-c710e111ab70] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T06:21:04.556Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8331cd50-e3ce-11ec-aa5c-c710e111ab70
+[ERROR - 2022-06-04T06:21:06.938Z] Session [8331cd50-e3ce-11ec-aa5c-c710e111ab70] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.available')
+[ERROR - 2022-06-04T06:21:06.938Z] Session [8331cd50-e3ce-11ec-aa5c-c710e111ab70] - page.onError - stack:
+  (anonymous function) (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+  onerror (https://assetscli.udesk.cn/im_client/js/udeskApi.js:3)
+KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2022-06-04T06:21:06.823Z] Session [848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f] - page.customHeaders:  - {}
+[INFO  - 2022-06-04T06:21:06.824Z] Session [848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2022-06-04T06:21:06.824Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f
+[ERROR - 2022-06-04T06:21:09.785Z] Session [848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f] - page.onError - msg: ReferenceError: Can't find variable: Map
+[ERROR - 2022-06-04T06:21:09.785Z] Session [848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f] - page.onError - stack:
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+  (anonymous function) (https://cdn.dancf.com/packages/gaoding/gd-tracker/1.16.0/gd-tracker.browser.js:1)
+[ERROR - 2022-06-04T06:21:09.787Z] Session [848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'gdTracker.tracker.setup')
+[ERROR - 2022-06-04T06:21:09.787Z] Session [848b42d0-e3ce-11ec-ba2c-cb04c2b1fe6f] - page.onError - stack:
+  onload (https://huaban.com/js/pack.js?1653996165.js:1)
